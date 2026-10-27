@@ -1,0 +1,30 @@
+# sent_id = 1
+# text = Ele tem o livro.
+1	Ele	_	PRON	_	_	2	nsubj	_	_
+2	tem	_	VERB	_	_	0	root	_	_
+3	o	_	DET	_	_	4	det	_	_
+4	livro	_	NOUN	_	_	2	obj	_	SpaceAfter=No
+5	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2
+# text = Quando ela então estava ali em seu novo esplendor, os pardais vieram novamente procurar suas antigas moradas.
+1	Quando	_	SCONJ	_	_	5	mark	_	_
+2	ela	_	PRON	_	_	5	nsubj	_	_
+3	então	_	ADV	_	_	5	advmod	_	_
+4	estava	_	AUX	_	_	5	cop	_	_
+5	ali	_	ADV	_	_	13	advcl	_	_
+6	em	_	ADP	_	_	9	case	_	_
+7	seu	_	DET	_	_	9	det	_	_
+8	novo	_	ADJ	_	_	9	amod	_	_
+9	esplendor	_	NOUN	_	_	5	obl	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	13	punct	_	_
+11	os	_	DET	_	_	12	det	_	_
+12	pardais	_	NOUN	_	_	13	nsubj	_	_
+13	vieram	_	VERB	_	_	0	root	_	_
+14	novamente	_	ADV	_	_	13	advmod	_	_
+15	procurar	_	VERB	_	_	13	xcomp	_	_
+16	suas	_	DET	_	_	18	det	_	_
+17	antigas	_	ADJ	_	_	18	amod	_	_
+18	moradas	_	NOUN	_	_	15	obj	_	SpaceAfter=No
+19	.	_	PUNCT	_	_	13	punct	_	_
+

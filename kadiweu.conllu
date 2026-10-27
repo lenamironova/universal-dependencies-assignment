@@ -1,0 +1,24 @@
+# sent_id = kadiweu-1a
+# text = Goti yemaa Ecode
+1	Goti	_	PROPN	_	_	2	nsubj	_	_
+2	yemaa	_	VERB	_	_	0	root	_	_
+3	Ecode	_	PROPN	_	_	2	obj	_	_
+
+# sent_id = kadiweu-1b
+# text = Goti akaami Gademaani
+1	Goti	_	PROPN	_	_	3	nsubj	_	_
+2	akaami	_	PRON	_	_	3	obj	_	_
+3	Gademaani	_	VERB	_	_	0	root	_	_
+
+# sent_id = kadiweu-1c
+# text = ee akaami Gademaani
+1	ee	_	PRON	_	_	3	nsubj	_	_
+2	akaami	_	PRON	_	_	3	obj	_	_
+3	Gademaani	_	VERB	_	_	0	root	_	_
+
+# sent_id = kadiweu-1d
+# text = akaami ee ademaani
+1	akaami	_	PRON	_	_	3	nsubj	_	_
+2	ee	_	PRON	_	_	3	obj	_	_
+3	ademaani	_	VERB	_	_	0	root	_	_
+
